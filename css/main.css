@@ -1,0 +1,26 @@
+body {
+  /* background-color: #0b67c3; */
+  background-color: #0352ae;
+  
+  margin: 0;
+}
+header {
+  /* background-color: #ecf1f2; */
+  background-color: #f0f0f1;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+h1{
+  text-align: center;
+}
+.container {
+  padding: 0 5%;
+  /* background-color: #ecf1f2; */
+  background-color: #f0f0f1;
+}
+.flex {
+  display: flex;
+}
+.flex-center {
+  justify-content: center;
+}
